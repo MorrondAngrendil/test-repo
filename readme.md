@@ -8,7 +8,7 @@ _cursive text_ **bold text**
 
 And here some code
 
-'''
+```
 git init
-'''
+```
 
